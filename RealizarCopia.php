@@ -1,5 +1,6 @@
 <?php
 
+echo '<h2>Este formulario es para hacer copias de seguridad</h2>';
 echo '<form action = "RealizarCopia.php" method = "POST">
     <table>
     <tr>
